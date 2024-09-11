@@ -14,4 +14,9 @@ public class demoTest {
 		System.out.println(a/b);
 	}
 
+	public void promedio(int a, int b) {
+		int result = a * b / 2;
+		System.out.println(result);
+	}
+	
 }
